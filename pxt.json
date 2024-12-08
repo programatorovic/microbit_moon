@@ -1,0 +1,14 @@
+{
+  "name": "Moon",
+  "version": "0.0.1",
+  "description": "Rozšírenie na určenie a navigáciu k polohe mesiaca pomocou Micro:bitu.",
+  "files": [
+    "main.ts",
+    "README.md",
+    "icon.png"
+  ],
+  "dependencies": {},
+  "supportedTargets": [
+    "microbit"
+  ]
+}
